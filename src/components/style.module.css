@@ -1,0 +1,7 @@
+.GridData{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border: solid;
+    gap: 30px;
+    padding: 100px;
+}
